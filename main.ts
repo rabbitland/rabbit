@@ -16,6 +16,7 @@ function main() {
     backgroundColor: "#111c24",
     frame: false,
     show: false,
+    fullscreen: true,
     webPreferences: {
       nodeIntegration: false
     }
