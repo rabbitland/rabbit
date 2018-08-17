@@ -1,3 +1,6 @@
 dist
 node_modules
 .cache
+CMakeCache.txt
+CMakeLists.txt
+yarn-error.log
