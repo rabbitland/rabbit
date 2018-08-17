@@ -4,6 +4,7 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@types/electron": "^1.6.10",
     "@types/node": "^10.7.1",
     "http-server": "^0.11.1",
     "live-server": "^1.2.0",
