@@ -19,6 +19,7 @@ find_package (Threads)
 ############################################################
 add_executable(rabbit
   wm/main.c
+  wm/window_manager.c
 )
 
 target_link_libraries(rabbit

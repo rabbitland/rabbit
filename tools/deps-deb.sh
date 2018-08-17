@@ -7,4 +7,5 @@ sudo apt-get install \
   xserver-xephyr \
   build-essential \
   libx11-dev \
-  libpthread-stubs0-dev
+  libpthread-stubs0-dev \
+  cmake
