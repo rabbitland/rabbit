@@ -36,9 +36,6 @@ function main() {
 
   win.once("ready-to-show", () => {
     win.show();
-    setTimeout(() => {
-      process.exit();
-    }, 5 * 1000);
   });
 }
 
